@@ -9,3 +9,5 @@ echo "source $HOME/.git-completion.bash" >> ~/.bash_profile
 git reset <file_name> : ステージから戻す
 
 git co . : 変更を消す
+
+git log -2: 2こだけlogを出す
