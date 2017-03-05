@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chihiro/Programs/cpp/morizosan-learning-day/object/class/Cat.cpp
+iostream
+-
+Cat.h
+/Users/chihiro/Programs/cpp/morizosan-learning-day/object/class/Cat.h
+
+/Users/chihiro/Programs/cpp/morizosan-learning-day/object/class/Cat.h
+
+/Users/chihiro/Programs/cpp/morizosan-learning-day/object/class/main.cpp
+iostream
+-
+Cat.h
+/Users/chihiro/Programs/cpp/morizosan-learning-day/object/class/Cat.h
+

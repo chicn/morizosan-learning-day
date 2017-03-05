@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/class.dir/main.cpp.o CMakeFiles/class.dir/Cat.cpp.o  -o class 
