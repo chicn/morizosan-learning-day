@@ -10,4 +10,9 @@ def hoge:
 
 def hogehoge:
     print("hogeeeee")
+    print("hoge")
+
+def hogehoge2:
+    print("hogeeeee")
+    print("hoge")
 
